@@ -1,3 +1,10 @@
+# Análise
+# Verificar se o texto enviado pelo usuário está dentro da regra
+# de formataçãom, sem espaços em branco no começo e no fim
+#
+# Tipos de dados
+# Texto digitado pelo usuário
+
 def espacos_extras(text: str) -> bool:
     """
     Verifica o texto enviado pelo usuário, seguindo uma regra específica,
