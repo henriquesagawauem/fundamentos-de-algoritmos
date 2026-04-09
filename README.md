@@ -84,4 +84,4 @@ Feito com dedicação por um futuro Engenheiro de Software! 🚀
 * **GitHub:** https://github.com/henriquesagawauem
 
 ---
-*Disciplina cursada no ano de 2026 sob a docência do(a) Prof. Mauro Henrique Mulati.*
+*Disciplina cursada no ano de 2026 sob a docência do Prof. Mauro Henrique Mulati.*
