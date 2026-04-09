@@ -1,3 +1,10 @@
+# Análise
+# Transformar a data no formato "dia/mes/ano" no formato "ano/mes/dia"
+#
+# Tipos de dados
+# Data no formato "dia/mes/ano" onde da e mes tem dois dígitos e ano tem quatro dígitos
+
+
 def dma_para_amd(data: str) -> str:
     """
     Transforma *data*, que deve estar no formato "dia/mes/ano",
