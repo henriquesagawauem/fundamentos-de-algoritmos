@@ -18,5 +18,7 @@ def rotacionar_string(string: str, n: int) -> str:
     'ndoferna'
     >>> rotacionar_string("a", 4)
     'a'
+    >>> rotacionar_string("abapiru", 2)
+    'ruabapi'
     """
-    return f"{string[-n:]}{string[0:-n]}"
+    return f"{string[len(string) - n :]}{string[0 : len(string) - n]}"
