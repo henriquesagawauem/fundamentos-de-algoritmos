@@ -1,0 +1,105 @@
+1)Leia o material de projeto de funções e responda:
+
+a) Objetivo de cada etapa do processo de projeto de funções
+
+Análise do problema: entender exatamente o que deve ser resolvido, quais são os dados de entrada, qual resultado deve ser produzido e quais restrições existem.
+
+Definição dos tipos de dados: decidir que tipo de dado será usado para representar cada entrada e a saída da função.
+
+Especificação: descrever claramente o que a função faz, por meio da assinatura, do propósito e dos exemplos.
+
+Implementação: escrever o código da função de acordo com a especificação.
+
+Verificação/Testes: conferir se a implementação realmente faz o que a especificação pede.
+
+Revisão: corrigir erros ou melhorar a solução quando algo não funcionar corretamente.
+
+
+b) Exemplo de informação irrelevante e de ambiguidade
+
+Informação irrelevante:
+“João, que gosta muito de futebol, tem 20 anos. Verifique se ele pode pagar meia entrada.”
+O fato de ele gostar de futebol não importa para resolver o problema.
+
+Ambiguidade:
+“Verifique se a pessoa é jovem.”
+A palavra “jovem” é ambígua, porque não diz exatamente qual faixa etária deve ser considerada.
+
+
+c) Por que é importante definir os tipos de dados antes da especificação?
+
+Porque os tipos dizem que tipo de informação a função recebe e devolve. Isso evita confusão, ajuda a escrever a assinatura corretamente e deixa mais claro como a função deve funcionar.
+
+
+d) Papel de cada parte da especificação
+
+Assinatura: mostra o nome da função, os parâmetros e os tipos de entrada e saída.
+
+Propósito: explica em palavras o que a função faz.
+
+Exemplos: mostram casos concretos de uso, ajudando a entender o comportamento esperado.
+
+
+e) Qual é a principal propriedade de uma especificação adequada?
+
+Ela deve ser clara e suficiente, isto é, precisa dar todas as informações necessárias para que outra pessoa consiga implementar a função corretamente.
+
+
+f) O que é a assinatura de uma função?
+
+É a parte que define:
+
+o nome da função
+os parâmetros de entrada
+os tipos desses parâmetros
+o tipo do valor retornado
+
+Exemplo:
+
+def soma(a: int, b: int) -> int:
+
+
+g) Qual é o objetivo inicial dos exemplos? E os demais?
+
+O objetivo inicial é ajudar a entender o problema e deixar claro o que a função deve produzir.
+
+Os demais objetivos são:
+
+orientar a implementação
+servir como teste
+ajudar a detectar erros na especificação ou no código
+
+
+h) Se não forem encontrados erros nos exemplos, podemos afirmar que a função está sem erros?
+
+Não. Isso apenas mostra que ela funcionou para aqueles exemplos. Ainda pode haver erro em outros casos que não foram testados
+
+
+i) A implementação é a fase mais importante? Verdadeiro ou falso?
+
+Falso.
+A implementação é importante, mas sem uma boa análise e uma boa específicação, o código pode ficar errado mesmo estando "bem escrito"
+
+
+j) Como proceder quando um teste falha?
+
+Deve-se:
+
+verificar se o teste está correto
+verificar se a especificação está correta
+verificar a implementação
+corrigir o problema encontrado
+testar novamente
+
+
+k) Por que a verificação deve ser feita novamente após a revisão?
+
+Porque uma correção pode introduzir novos erros. Então é preciso testar de novo para garantir que a função continua correta.
+
+
+l) Diferença entre resultado da análise e descrição do propósito
+
+Resultado da análise: entendimento do problema, das entradas, saídas e restrições.
+Descrição do propósito: texto curto e direto explicando o que a função faz.
+
+A análise é mais ampla; o propósito é um síntese do comportamento da função.
