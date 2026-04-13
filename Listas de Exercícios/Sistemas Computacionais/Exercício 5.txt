@@ -1,0 +1,5 @@
+5) Quais são os principais componentes de um sistema computacional?
+
+Os principais componentes de um sistema computacional são dividos em hardware e software, atuando
+juntos para processar dados. Os elementos incluem CPU (processador), memória ram, dispositivos de
+armazenamento (HD, SSD), placa-mãe, fonte de alimentação e periféricos de entrada/saída.

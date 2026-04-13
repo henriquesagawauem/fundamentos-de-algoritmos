@@ -1,0 +1,4 @@
+4) Qual é a forma básica de funcionamento de um sistema computacional?
+
+Baseia-se em um ciclo contínuo de quatro etapas fundamentais, frequentemente
+chamado de ciclo IPOS (Entrada, Processamento, Saída e Armazenamento).

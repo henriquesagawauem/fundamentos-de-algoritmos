@@ -1,0 +1,4 @@
+3) O que é um sistema computacional?
+
+É um conjunto integrado de componentes físicos (hardware) e lógicos (software) que trabalham
+juntos para processar dados, permitindo o uso do computador.

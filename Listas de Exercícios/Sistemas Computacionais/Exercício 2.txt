@@ -1,0 +1,4 @@
+2) O que é um software?
+
+Um software é um coleção de instruções que dizem ao computador
+o que ele deve fazer.

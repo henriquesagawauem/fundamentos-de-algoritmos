@@ -1,0 +1,5 @@
+10) Quais são as principais diferenças entre um shell gráfico e um shell textual?
+
+As principais diferenças entre um shell gráfico e um shell textual residem na forma de interação,
+eficiência, consumo de recursos e curva de aprendizado. Enquanto o primeiro foca na facilidade de
+uso com elementos visuais, o segundo foca na rapidez e automação via comandos.

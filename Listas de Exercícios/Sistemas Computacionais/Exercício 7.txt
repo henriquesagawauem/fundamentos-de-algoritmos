@@ -1,0 +1,4 @@
+7) Quais são as duas principais funções do sistema operacional?
+
+Gerenciamento dos recursos de hardware e o fornecimento de uma interface para
+que o usuário interaja com o computador e execute programas.

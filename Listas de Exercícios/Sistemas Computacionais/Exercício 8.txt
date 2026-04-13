@@ -1,0 +1,4 @@
+8) O que é software livre?
+
+Qualquer programa de conputador que respeita a liberdade dos usuários e
+da comunidade, permitindo executar, estudar, modificar e redistribuir cópias.

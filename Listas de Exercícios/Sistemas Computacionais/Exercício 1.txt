@@ -1,0 +1,4 @@
+1) O que é um computador?
+
+Antigamente um computador era uma pessoa que faz cálculos. Entretanto, nos dias atuais, um computador é uma
+maquina que pode ser programada para executar sequências de instruções automaticamente.

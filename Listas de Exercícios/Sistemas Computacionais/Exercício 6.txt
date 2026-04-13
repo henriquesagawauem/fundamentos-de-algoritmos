@@ -1,0 +1,3 @@
+6) Por que existem muitos tipos de memória e de dispositivos de armazenamento?
+
+Porque para cada uma tem características específicas de capazidade, velocidade e custo.

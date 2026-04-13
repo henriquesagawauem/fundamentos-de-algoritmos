@@ -1,0 +1,6 @@
+11) Qual é a utilidade de um sistema computacional sem dispositivos de entrada? E sem dispositivos de
+saída?
+
+Um sistema computacional sem dispositivo de entrdada funciona como um gerador de dados automáticos,
+enquanto um sistema sem dispositivos de saída age como um processador oculto ou coletador de dado,
+ambos limitados na interação humana direta.

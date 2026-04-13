@@ -1,0 +1,5 @@
+9) Qual é a diferença entre memória e dispositivos de armazenamento?
+
+A memória é volátil, rápida e temporária, usada para tarefas ativas. Já
+o armazenamento é não volátil, mais lento e permanente, guardando dados
+mesmo sem energia.
