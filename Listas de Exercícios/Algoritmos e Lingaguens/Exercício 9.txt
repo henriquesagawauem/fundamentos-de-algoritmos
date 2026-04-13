@@ -1,0 +1,57 @@
+9) Aja como um computador humano e execute o algoritmo (função matemática) para calcular a soma dos valores da lista [6, 1, 4, 2].
+
+1. Inicialização de Registradores
+    Lista (Input): [6, 1, 4, 2]
+
+    Acumulador (soma): 0
+
+    Ponteiro de Índice (i): 0
+
+    Tamanho da Lista (n): 4
+
+
+2. Ciclo de Processamento
+Passo 1:
+
+    Acessando índice 0: Valor 6
+
+    Operação: soma <- 0 + 6
+
+    Novo estado da Memória: soma = 6
+
+Passo 2:
+
+    Acessando índice 1: Valor 1
+
+    Operação: soma <- 6 + 1
+
+    Novo estado da Memória: soma = 7
+
+Passo 3:
+
+    Acessando índice 2: Valor 4
+
+    Operação: soma <- 7 + 4
+
+    Novo estado da Memória: soma = 11
+
+Passo 4:
+
+    Acessando índice 3: Valor 2
+
+    Operação: soma <- 11 + 2
+
+    Novo estado da Memória: soma = 13
+
+
+
+3. Condição de Parada
+    Índice i atingiu o valor de n (4).
+
+    Nenhum elemento restante na pilha.
+
+
+Saída (Output)
+    Resultado Final: 13
+
+    Status: Operação concluída.

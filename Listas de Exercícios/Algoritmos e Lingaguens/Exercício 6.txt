@@ -1,0 +1,8 @@
+6) Qual é a diferença entre compilação e interpretação?
+
+Compilação: o código-fonte é traduzido antes da execução para linguagem de máquina ou outro formato executável.
+Interpretação: o código-fonte é lido e executado passo a passo por um interpretador.
+
+Ou seja,
+Compilação: traduz antes.
+Interpretação: executa enquanto lê.

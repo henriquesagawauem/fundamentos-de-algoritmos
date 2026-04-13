@@ -1,0 +1,8 @@
+5) O que são a sintaxe e a semântica de uma linguagem de programação?
+
+Sintaxe é a forma correta de escrever comandos, ou seja, as regras de escrita.
+Semântica é o significado desses comandos, isto é, o que eles fazem quando são executados.
+
+Exemplo:
+Sintaxe: escrever um if corretamente
+Semântica: o if serve para tomar decisão

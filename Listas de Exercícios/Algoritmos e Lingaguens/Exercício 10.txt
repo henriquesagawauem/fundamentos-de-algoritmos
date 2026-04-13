@@ -1,0 +1,7 @@
+10) Tente relacionar as construções do fluxograma do algoritmo que calcula a raiz quadrada com as construções do código em C++.
+
+Início/Fim do fluxograma → início e fim do programa ou da função em C++
+Entrada de dados → cin
+Processamento → atribuições e cálculos, como x = x + 1
+Repetição (setas voltando) → while
+Saída de dados → cout

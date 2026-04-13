@@ -1,0 +1,4 @@
+2) Qual é a relação entre algoritmos e programas de computadores?
+
+O algoritmo é a solução lógica do problema.
+O programa é essa solução escrita em uma linguagem de programação, para que o computador possa executá-la.

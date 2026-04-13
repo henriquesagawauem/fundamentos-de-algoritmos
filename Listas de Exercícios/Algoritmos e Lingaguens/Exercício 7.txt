@@ -1,0 +1,6 @@
+7) Aja como um computador humano e execute o algoritmo (fluxograma) para calcular a raiz quadrada
+de 9.
+
+Início -> Obtenha o número N e o chute inicial C -> Calcule o valor Err da seguinte forma Err -> |C * C - N|
+-> Err < 0.1 -> sim? A resposta é C -> fim
+                não? Calcule o novo chute C' da seguinte forma C' -> (C + (N / C)) / 2 -> mude o chute C para o valor de C' -> repita 

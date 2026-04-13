@@ -1,0 +1,8 @@
+11) Tente relacionar as construções do pseudocódigo que calcula o MDC com as construções do código em Python.
+
+Leia A, B → input()
+Atribuições → a = ..., b = ...
+Enquanto ... faça → while
+Se ... então → if
+Cálculo do resto → operador %
+Exibir resultado → print()

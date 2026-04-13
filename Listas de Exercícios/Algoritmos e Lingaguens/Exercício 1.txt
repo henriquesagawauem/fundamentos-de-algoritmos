@@ -1,0 +1,3 @@
+1) O que é um algoritmo?
+
+Um algoritmo é uma sequência finita de passos bem definidos para resolver um problema ou executar uma tarefa.

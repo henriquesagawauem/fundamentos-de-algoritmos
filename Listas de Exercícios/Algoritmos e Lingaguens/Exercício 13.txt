@@ -1,0 +1,39 @@
+Os computadores utilizam internamente o sistema binário (base 2) para representar números. No sistema
+decimal usamos 10 dígitos (0 a 9) e cada posição representa uma potência de 10. Por exemplo, o número
+352 representa 3 × 102 + 5 × 101 + 2 × 100 = 300 + 50 + 2 = 352. No sistema binário usamos apenas 2 dígitos
+
+1
+
+(0 e 1) e cada posição representa uma potência de 2. Por exemplo, o número 1101 em binário representa
+1 × 2
+3 + 1 × 2
+2 + 0 × 2
+1 + 1 × 2
+0 = 8 + 4 + 0 + 1 = 13.
+
+O algoritmo a seguir converte um número natural positivo N para a sua representação em binário:
+Passo 1: Divida N por 2 e anote o resto.
+Passo 2: N ← resultado da divisão inteira de N por 2.
+Passo 3: Se N > 0, repita o passo 1.
+Passo 4: Leia os restos de baixo para cima.
+Exemplo de execução para N = 13:
+
+Passo N N ÷ 2 Resto
+1 13 6 1
+2 6 3 0
+3 3 1 1
+4 1 0 1
+
+Restos de baixo para cima: 1101. Portanto, 13 em decimal é 1101 em binário.
+13) Aja como um computador humano e execute o algoritmo acima para converter o número 25 para
+binário.
+
+Resposta:
+
+25 / 2 = 12, resto = 1
+12 / 2 = 6, resto = 0
+6 / 2 = 3, resto = 0
+3 / 2 = 1, resto = 1
+1 / 2 = 0, resto = 1
+
+25 em decimal é igual a 1101 em binário

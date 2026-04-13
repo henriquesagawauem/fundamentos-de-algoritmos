@@ -1,0 +1,9 @@
+3) Podemos utilizar o português para programar? Explique.
+
+Depende do que se entende por "programar".
+
+Podemos escrever algoritmos em português, por exemplos com pseudocódigo. Mas, para o computador
+executar, normalmente precisamos escrever uma linguagem de programação formal, como Python, C++ ou Java.
+
+Então, o Português pode ser usado para explicar a lógica, mas não custuma ser a linguagem que o computador executar
+diretamente.

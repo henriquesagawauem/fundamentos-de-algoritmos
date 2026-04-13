@@ -1,0 +1,23 @@
+12) Dois algoritmos podem resolver o mesmo problema de formas diferentes. Um critério para escolher
+entre eles é a simplicidade. Considere os dois algoritmos a seguir para verificar se um número natural
+é par.
+Algoritmo A: Divida o número por 2. Se o resto é 0, o número é par. Senão, o número é ímpar.
+Algoritmo B: Subtraia 2 do número repetidamente. Se chegar em 0, o número é par. Se chegar em
+1, o número é ímpar.
+Qual dos dois algoritmos é mais simples? Por quê?
+
+O Algoritmo A é mais simples.
+
+Porque ele faz uma única verificação usando o resto da divisão por 2:
+
+se o resto for 0, é par
+senão, é ímpar
+
+Já o Algoritmo B exige repetidas subtrações de 2 até chegar em 0 ou 1, o que dá mais trabalho e leva mais passos.
+
+Então o A é mais simples porque:
+
+é mais direto
+usa menos passos
+é mais eficiente
+é mais fácil de entender

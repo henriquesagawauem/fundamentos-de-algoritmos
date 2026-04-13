@@ -1,0 +1,13 @@
+8) Aja como um computador humano e execute o algoritmo (pseudocódigo) para calcular o MDC de 18 e 60.
+
+Passo 0:
+• Comece com A = 18 e B = 60
+Passo 1:
+• Se A < B, troque o valor de A por B e vice-versa
+Passo 2:
+• Se B = 0, então pare e dê como saída o valor de A
+• Senão
+• C ← A − B
+• A ← B
+• B ← C
+• Repita o passo 1

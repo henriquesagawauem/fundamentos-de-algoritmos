@@ -1,0 +1,3 @@
+4) O que é uma linguagem de programação?
+
+É uma linguagem formal usada para escrever instruções que o computador consegue interpretar ou compilar e depois executar.
