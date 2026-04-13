@@ -1,0 +1,8 @@
+8) O que é avaliação em curto circuito?
+
+É quando expressões lógicas param de ser avaliadas assim que o resultado já pode ser determinado.
+
+Exemplos:
+
+False and qualquer_coisa → já é False, então o resto nem precisa ser avaliado
+True or qualquer_coisa → já é True

@@ -1,0 +1,4 @@
+5) O que é o REPL e para que ele é utilizado?
+
+REPL significa Read-Eval-Print Loop.
+É o ambiente interativo do Python onde você digita comandos, o Python executa e mostra o resultado imediatamente.

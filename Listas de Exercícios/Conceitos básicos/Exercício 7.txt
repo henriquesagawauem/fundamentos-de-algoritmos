@@ -1,0 +1,5 @@
+7) O Python faz verificação estática de tipos? E o Spython? Por que isso é útil?
+
+O Python, por padrão, não faz verificação estática de tipos. Ele é dinamicamente tipado.
+O Spython faz, ou seja, verifica tipos antes da execução.
+Isso é útil porque ajuda a encontrar erros mais cedo.

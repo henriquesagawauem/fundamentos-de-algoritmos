@@ -1,0 +1,14 @@
+30) Considere o código a seguir e indique a ordem em que as linhas são executadas. Use o Python Tutor
+para conferir a sua resposta.
+1 def dobro(x: int) -> int:
+2 return 2 * x
+3
+4 def soma_dobros(a: int, b: int) -> int:
+5 da = dobro(a)
+6 db = dobro(b)
+7 return da + db
+8
+9 soma_dobros(3, 5)
+
+Orderm de execução das linhas:
+1 -> 4 -> 9 -> 5 -> 2 -> 6 -> 2 -> 7

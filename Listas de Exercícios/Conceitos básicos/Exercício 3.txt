@@ -1,0 +1,47 @@
+3) Indique o valor de cada resultado oculto nessa seção de interações. Use a janela de interações após
+calcular as respostas manualmente para conferir se elas estão corretas.
+
+>>> 2 * 19 // 3
+12
+
+>>> 64 ** 1 / 4
+16
+
+>>> 15 % 6 * 8 / 4
+6
+
+>>> a: int = len('palavra') + 11
+>>> a // 2 * 2
+18
+
+>>> b: int = a + a // 3
+>>> a = 12
+>>> b
+Error
+
+>>> b = 2 * b
+>>> b
+Error
+
+>>> nome: str = 'José da Silva'
+>>> nome[:4].upper()
+JOSÉ
+
+>>> nome[5:].lower()
+da silva
+
+>>> nome[3:7]
+é da
+
+>>> nome[3:7][1]
+' '
+
+>>> str(len(nome))
+13
+
+>>> int('1' * len(nome)) % 100
+Error
+
+>>> nome = nome + ' e Almeida'
+>>> nome
+José da Silva e Almeida

@@ -1,0 +1,5 @@
+6) Qual é a diferença entre executar código no REPL e em um arquivo .py?
+
+No REPL, você testa comandos rapidamente, um por vez.
+No arquivo .py, você escreve um programa completo, salva e executa depois.
+O REPL é melhor para experimentos; o .py é melhor para programas organizados.

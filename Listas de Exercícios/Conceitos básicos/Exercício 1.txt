@@ -1,0 +1,6 @@
+# 1) Quais são os dois tipos numéricos principais do Python?
+
+Os dois principais são:
+
+int → números inteiros
+float → números reais

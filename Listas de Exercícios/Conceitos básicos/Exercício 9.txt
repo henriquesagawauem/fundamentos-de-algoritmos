@@ -1,0 +1,16 @@
+9) Dê um exemplo de erro sintático e um de erro semântico e explique por que cada um é classificado
+dessa forma.
+
+Erro sintático:
+
+if x > 3
+    print(x)
+
+Falta: corretamente ou a estrutura está errada. O Python nem consegue interpretar.
+
+Erro semântico:
+
+idade = 20
+print(idade / 0)
+
+A sintaxe está correta, mas o programa produz erro no significado da operação.
