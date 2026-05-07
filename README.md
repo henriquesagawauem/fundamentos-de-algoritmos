@@ -31,7 +31,7 @@ Durante a disciplina, exploramos os seguintes conceitos de lógica e sintaxe Pyt
 ## 🛠️ Tecnologias Utilizadas
 
 * **Linguagem:** Python 3.x
-* **Ambiente de Desenvolvimento (IDE/Editor):** [Ex: Visual Studio Code, PyCharm, Jupyter Notebook, Google Colab]
+* **Ambiente de Desenvolvimento (IDE/Editor):** [SPython](https://malbarbo.pro.br/spython/)
 
 ---
 
