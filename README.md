@@ -1,4 +1,4 @@
-# 🐍 Fundamentos de Algoritmos - UEM
+# Fundamentos de Algoritmos - UEM
 
 ![Linguagem](https://img.shields.io/badge/Linguagem-Python-blue)
 ![Curso](https://img.shields.io/badge/Curso-Engenharia%20de%20Software-brightgreen)
@@ -31,7 +31,7 @@ Durante a disciplina, exploramos os seguintes conceitos de lógica e sintaxe Pyt
 ## 🛠️ Tecnologias Utilizadas
 
 * **Linguagem:** Python 3.x
-* **Ambiente de Desenvolvimento (IDE/Editor):** [SPython](https://malbarbo.pro.br/spython/)
+* **Ambiente de Desenvolvimento (IDE/Editor):** [SPython](https://malbarbo.pro.br/spython/) e Visual Studio Code
 
 ---
 
@@ -69,8 +69,12 @@ Para rodar os scripts deste repositório na sua máquina, você precisará ter o
 3. Execute o arquivo desejado usando o terminal:
    ```bash
    python nome_do_arquivo.py
+
+   mypy nome_do_arquivo.py
+
+   python -m doctest -v nome_do_arquivo.py
    ```
-   *(Nota: Se estiver usando macOS ou Linux, pode ser necessário usar `python3` no lugar de `python`)*
+   *(Nota: Se estiver usando macOS ou Linux, pode ser necessário usar `python3` no lugar de `python` e tenha a biblioteca mypy instalada)*
 
 ---
 
