@@ -1,16 +1,21 @@
-def remove_par(lista: list[int]) -> None:
+def remove_pares(lista: list[int]) -> None:
     """
-    Remove todos os elementos pares de *lista*
+    Remove todos os elementos em índices pares de *lista*
 
     Exemplos
-    >>> lista = [1, 2, 3, 4]
-    >>> remove_par(lista)
-    >>> lista
-    [1, 3]
+    >>> lst = [1, 2, 3, 4, 5, 6]
+    >>> remove_pares(lst)
+    >>> lst
+    [2, 4, 6]
     """
-    for i in range(len(lista) - 1):
-        if lista[i] % 2 == 0:
-            for i in range(i, len(lista) - 1):
-                lista[i] = lista[i + 1]
-    
+
+    i = len(lista) - 1
+
+    while i >= 0:
+        if i % 2 == 0:
+            j = i
+            while j < len(lista) - 1:
+                lista[j] = lista[j + 1]
+                j += 1
             lista.pop()
+        i -= 1
