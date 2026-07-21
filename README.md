@@ -1,9 +1,10 @@
 # Fundamentos de Algoritmos - UEM
 
-![Linguagem](https://img.shields.io/badge/Linguagem-Python-blue)
-![Curso](https://img.shields.io/badge/Curso-Engenharia%20de%20Software-brightgreen)
+![Linguagem](https://img.shields.io/badge/Linguagem-Python-yellow)
+![Curso](https://img.shields.io/badge/Curso-Engenharia%20de%20Software-blue)
 ![Universidade](https://img.shields.io/badge/Institui%C3%A7%C3%A3o-UEM-red)
-![Status](https://img.shields.io/badge/Status-Em%20Andamento-yellow)
+![Status](https://img.shields.io/badge/Status-Finalizada-green)
+![Nota](https://img.shields.io/badge/Nota-9.6-lightgreen)
 
 ## 📌 Sobre o Repositório
 

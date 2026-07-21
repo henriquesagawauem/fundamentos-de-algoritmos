@@ -10,7 +10,7 @@ def maior_sequencia_zeros(lista: list[int]) -> int:
 
 
 def aux(lista: list[int], atual: int, maior: int) -> int:
-    resultado = []
+    resultado: int = 0
 
     if lista == []:
         resultado = encontra_maior(atual, maior)
